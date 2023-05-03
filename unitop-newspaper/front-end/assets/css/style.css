@@ -1,0 +1,13 @@
+.container {
+    width: 1140px;
+    margin: 0px auto;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+
+.d-flex {
+    display: flex;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
